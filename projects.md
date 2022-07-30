@@ -22,10 +22,8 @@ order: 0
     <br>
     <em>TLDR: </em> This paper applied Structural Equation Modelling to explore the effects of built environment, self-selection, and household status on car ownership and car use.
     <br>
-    <a href=https://zhangyixue1537.github.io" style="font-weight:bold">Yixue Zhang</a>,
-    <a href="http://www.cs.toronto.edu/~rtqichen/">Ricky Tian Qi Chen</a>,
-    <a href="http://lxuechen.com/">Xuechen Li</a>,
-    <a href="https://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a>
+    <b><a href="https://zhangyixue1537.github.io">Yixue Zhang</a></b>,
+    <a href="https://stevenfarber.wordpress.com/">Steve Farber</a>
     <br>
     <em>Transportation Journal, 2021.</em>
     <br>
