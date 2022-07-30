@@ -50,8 +50,7 @@ _Transportation Journal, 2021_\
 ___
 
 <img align="left" width="250" height="250" src="./figures/yuyu.jpg">
-Travel behaviour and life course: Examining changes in car use after residential relocation in Beijing.
-
+**Travel behaviour and life course: Examining changes in car use after residential relocation in Beijing.**\
 TLDR: This paper applied Structural Equation Modelling to explore the effects of built environment, self-selection, and household status on car ownership and car use. \
 [**Yixue Zhang**](https://zhangyixue1537.github.io),  [Steve Farber](https://github.com/jekyll/jekyll).\
 _Transportation Journal, 2021_\
