@@ -34,7 +34,6 @@ order: 0
 </tr>
 </table>
 
-___
 
 <table border="0" cellspacing="0" cellpadding="0" style="width:100%; border-collapse: collapse; border: none">
 <tr>
@@ -60,7 +59,6 @@ ___
 </tr>
 </table>
 
-___
 
 ## Belleville Bus on Demand 
 
