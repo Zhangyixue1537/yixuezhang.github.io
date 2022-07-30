@@ -25,12 +25,11 @@ order: 0
     <a href="http://lxuechen.com/">Xuechen Li</a>,
     <a href="https://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a>
     <br>
-    <em>Artificial Intelligence and Statistics</em>, 2022.
+    <em>Transportation Journal, 2021.</em>
     <br>
     <a href="https://arxiv.org/abs/2102.06559">paper</a>
     | <a href="https://github.com/xwinxu/bayeSDE">code</a>
     | <a href="talks/sdebnn.pdf">slides</a>
-    | <a href="papers/sdebnn.bib">bibtex</a>
 </td>
 </tr>
     
