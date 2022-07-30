@@ -19,7 +19,8 @@ order: 0
 </td>
 <td valign="top">
     <b>Travel behaviour and life course: Examining changes in car use after residential relocation in Beijing.</b>
-    <a href="https://winniexu.ca/">Winnie Xu</a>,
+    <br>
+    <b href=https://zhangyixue1537.github.io">Yixue Zhang</b>,
     <a href="http://www.cs.toronto.edu/~rtqichen/">Ricky Tian Qi Chen</a>,
     <a href="http://lxuechen.com/">Xuechen Li</a>,
     <a href="https://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a>
