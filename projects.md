@@ -32,8 +32,6 @@ order: 0
     | <a href="talks/sdebnn.pdf">slides</a>
 </td>
 </tr>
-    
-<tr><td height="10px"></td></tr>
   
 </table>
 
