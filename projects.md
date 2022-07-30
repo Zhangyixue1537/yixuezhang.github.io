@@ -10,6 +10,7 @@ order: 0
 ## Acessible Taxi
 
 
+<table border="0" cellspacing="2" cellpadding="2"><tbody>
 <tr>
 <td valign="top">
     <a href="https://arxiv.org/abs/2102.06559">
@@ -34,6 +35,7 @@ We perform scalable approximate inference in a recently-proposed family of conti
     | <a href="papers/sdebnn.bib">bibtex</a>
 </td>
 </tr>
+</tbody></table>
 
 <img align="left" width="250" height="250" src="./figures/yuyu.jpg">
 We perform scalable approximate inference in a recently-proposed family of continuous-depth Bayesian neural networks. In this model class, uncertainty about separate weights in each layer produces dynamics that follow a stochastic differential equation (SDE). We demonstrate gradient-based stochastic variational inference in this infinite-parameter setting, producing arbitrarily-flexible approximate posteriors. We also derive a novel gradient estimator that approaches zero variance as the approximate posterior approaches the true posterior. This approach inherits the memory-efficient training and tunable precision of neural ODEs.
