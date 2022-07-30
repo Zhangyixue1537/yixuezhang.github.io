@@ -19,7 +19,7 @@ theme: # leave it empty
 author: zhangyixue1537
 image: /thumbnail-jumbo.png
 twitter:
-  username: zhangyixue1537
+  username: YixueZhang1537
 
 plugins:
   - jekyll-target-blank
