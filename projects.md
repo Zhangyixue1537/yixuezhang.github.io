@@ -15,7 +15,7 @@ We perform scalable approximate inference in a recently-proposed family of conti
 
 [Yixue Zhang](https://github.com/jekyll/jekyll),  [Steve Farber](https://github.com/jekyll/jekyll).
 
-_Transportation Journal, 2021_
+abc _Transportation Journal, 2021_
 
 [paper](https://github.com/jekyll/jekyll) | [slides](https://github.com/jekyll/jekyll)
 
