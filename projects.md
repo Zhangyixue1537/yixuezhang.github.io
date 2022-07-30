@@ -11,36 +11,13 @@ order: 0
 
 
 <table style="width:100%">
-  <tr>
-    <th style="width:60%">Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
-
-<table style="width:100%">
 <tr>
-<td style="width:70%">
+<td valign="top" style="width:30%">
     <a href="https://arxiv.org/abs/2102.06559">
             <img src="./figures/yuyu.jpg" alt="Link" width="250" height="250">
     </a>
 </td>
-<td>
+<td valign="top">
     <b>Infinitely Deep Bayesian Neural Networks with Stochastic Differential Equations</b>
     <p>
 We perform scalable approximate inference in a recently-proposed family of continuous-depth Bayesian neural networks. In this model class, uncertainty about separate weights in each layer produces dynamics that follow a stochastic differential equation (SDE). We demonstrate gradient-based stochastic variational inference in this infinite-parameter setting, producing arbitrarily-flexible approximate posteriors. We also derive a novel gradient estimator that approaches zero variance as the approximate posterior approaches the true posterior. This approach inherits the memory-efficient training and tunable precision of neural ODEs.
@@ -59,6 +36,8 @@ We perform scalable approximate inference in a recently-proposed family of conti
 </td>
 </tr>
     
+<tr><td height="10px"></td></tr>
+  
 </table>
 
 <img align="left" width="250" height="250" src="./figures/yuyu.jpg">
