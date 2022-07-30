@@ -14,7 +14,7 @@ order: 0
 <tr>
 <td valign="top" style="width:30%">
     <a href="https://arxiv.org/abs/2102.06559">
-            <img src="./figures/yuyu.jpg" alt="Link" width="200px" height="200px">
+            <img src="./figures/yuyu.jpg" width="210px" height="210px">
     </a>
 </td>
 <td valign="top">
