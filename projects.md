@@ -7,9 +7,33 @@ ref: projects
 order: 0
 ---
 
-# Aligning images
+## Acessible Taxi
 
-## `left` alignment
+<tr>
+<td valign="top">
+    <a href="https://arxiv.org/abs/2102.06559">
+            <img src="pictures/sdebnn-icon.png" alt="Link" width="130px" height="130px">
+    </a>
+</td>
+<td valign="top">
+    <b>Infinitely Deep Bayesian Neural Networks with Stochastic Differential Equations</b>
+    <p>
+We perform scalable approximate inference in a recently-proposed family of continuous-depth Bayesian neural networks. In this model class, uncertainty about separate weights in each layer produces dynamics that follow a stochastic differential equation (SDE). We demonstrate gradient-based stochastic variational inference in this infinite-parameter setting, producing arbitrarily-flexible approximate posteriors. We also derive a novel gradient estimator that approaches zero variance as the approximate posterior approaches the true posterior. This approach inherits the memory-efficient training and tunable precision of neural ODEs.
+    </p>
+    <a href="https://winniexu.ca/">Winnie Xu</a>,
+    <a href="http://www.cs.toronto.edu/~rtqichen/">Ricky Tian Qi Chen</a>,
+    <a href="http://lxuechen.com/">Xuechen Li</a>,
+    <a href="https://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a>
+    <br>
+    <em>Artificial Intelligence and Statistics</em>, 2022.
+    <br>
+    <a href="https://arxiv.org/abs/2102.06559">paper</a>
+    | <a href="https://github.com/xwinxu/bayeSDE">code</a>
+    | <a href="talks/sdebnn.pdf">slides</a>
+    | <a href="papers/sdebnn.bib">bibtex</a>
+</td>
+</tr>
+
 
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
@@ -17,8 +41,7 @@ This is the code you need to align images to the left:
 ```
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 ```
-
----
+## Belleville Bus on Demand 
 
 This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
 
