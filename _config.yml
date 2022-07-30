@@ -20,7 +20,8 @@ author: zhangyixue1537
 image: /thumbnail-jumbo.png
 twitter:
   username: YixueZhang1537
-
+gscholar:
+  userid: iOO7yQcAAAAJ&hl=en
 plugins:
   - jekyll-target-blank
 
