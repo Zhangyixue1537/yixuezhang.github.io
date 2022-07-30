@@ -9,7 +9,6 @@ order: 0
 
 ## Acessible Taxi
 
-
 <table border="0" cellspacing="0" cellpadding="0" style="width:100%; border-collapse: collapse; border: none">
 <tr>
 <td valign="top" style="width:30%">
