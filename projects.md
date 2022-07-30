@@ -12,7 +12,7 @@ order: 0
 
 <table border="0" cellspacing="200" cellpadding="2"><tbody>
 <tr>
-<td valign="top">
+<td valign="top" style="width:70%">
     <a href="https://arxiv.org/abs/2102.06559">
             <img src="./figures/yuyu.jpg" alt="Link" width="250" height="250">
     </a>
