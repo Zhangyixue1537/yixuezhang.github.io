@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Welcome to Yixue's Homepage
 ---
 
 ### About

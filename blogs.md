@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Now
+title: Blogs
 tagline: What I'm doing now
-permalink: /now.html
-ref: now
+permalink: /blogs.html
+ref: blogs
 order: 2
 ---
 

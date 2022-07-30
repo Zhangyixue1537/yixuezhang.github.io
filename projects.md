@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: Projects
 tagline: A few more words about this theme
-permalink: /about.html
-ref: about
+permalink: /projects.html
+ref: projects
 order: 0
 ---
 
