@@ -10,7 +10,7 @@ order: 0
 ## Acessible Taxi
 
 
-<table border="0" cellspacing="20" cellpadding="2"><tbody>
+<table border="0" cellspacing="200" cellpadding="2"><tbody>
 <tr>
 <td valign="top">
     <a href="https://arxiv.org/abs/2102.06559">
