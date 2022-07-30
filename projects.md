@@ -10,9 +10,9 @@ order: 0
 ## Acessible Taxi
 
 
-<table style="width:80%">
+<table style="width:100%">
   <tr>
-    <th>Firstname</th>
+    <th style="width:60%">Firstname</th>
     <th>Lastname</th> 
     <th>Age</th>
   </tr>
