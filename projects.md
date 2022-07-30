@@ -29,6 +29,3 @@ _Transportation Journal, 2021_\
 ___
 
 ## Belleville Bus on Demand 
-
-
-[Go to the Home Page]({{ '/' | absolute_url }})
