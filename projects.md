@@ -18,10 +18,7 @@ order: 0
     </a>
 </td>
 <td valign="top">
-    <b>Infinitely Deep Bayesian Neural Networks with Stochastic Differential Equations</b>
-    <p>
-We perform scalable approximate inference in a recently-proposed family of continuous-depth Bayesian neural networks. In this model class, uncertainty about separate weights in each layer produces dynamics that follow a stochastic differential equation (SDE). We demonstrate gradient-based stochastic variational inference in this infinite-parameter setting, producing arbitrarily-flexible approximate posteriors. We also derive a novel gradient estimator that approaches zero variance as the approximate posterior approaches the true posterior. This approach inherits the memory-efficient training and tunable precision of neural ODEs.
-    </p>
+    <b>Travel behaviour and life course: Examining changes in car use after residential relocation in Beijing.</b>
     <a href="https://winniexu.ca/">Winnie Xu</a>,
     <a href="http://www.cs.toronto.edu/~rtqichen/">Ricky Tian Qi Chen</a>,
     <a href="http://lxuechen.com/">Xuechen Li</a>,
