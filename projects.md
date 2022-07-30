@@ -20,8 +20,7 @@ order: 0
 <td valign="top">
     <b>Travel behaviour and life course: Examining changes in car use after residential relocation in Beijing.</b>
     <br>
-    <em>TLDR: </em>
-    <a This paper applied Structural Equation Modelling to explore the effects of built environment, self-selection, and household status on car ownership and car use. </a>
+    <em>TLDR: </em> This paper applied Structural Equation Modelling to explore the effects of built environment, self-selection, and household status on car ownership and car use.
     <br>
     <b href=https://zhangyixue1537.github.io">Yixue Zhang</b>,
     <a href="http://www.cs.toronto.edu/~rtqichen/">Ricky Tian Qi Chen</a>,
