@@ -17,9 +17,9 @@ order: 0
     </a>
 </td>
 <td valign="top">
-    <b>Travel behaviour and life course: Examining changes in car use after residential relocation in Beijing.</b>
+    <b>Eliminating barriers to nighttime activity participation: the case of on-demand transit in Belleville, Canada.</b>
     <br>
-    <em>TLDR: </em> This paper applied Structural Equation Modelling to explore the effects of built environment, self-selection, and household status on car ownership and car use.
+    <em>TLDR: </em> This paper applies structural equation models to identify the relationships between aspects of the On-Demand-Transit service and activity participation.
     <br>
     <b><a href="https://zhangyixue1537.github.io">Yixue Zhang</a></b>,
     <a href="https://stevenfarber.wordpress.com/">Steve Farber</a>
@@ -42,9 +42,9 @@ order: 0
     </a>
 </td>
 <td valign="top">
-    <b>Travel behaviour and life course: Examining changes in car use after residential relocation in Beijing.</b>
+    <b>Eliminating barriers to nighttime activity participation: the case of on-demand transit in Belleville, Canada.</b>
     <br>
-    <em>TLDR: </em> This paper applied Structural Equation Modelling to explore the effects of built environment, self-selection, and household status on car ownership and car use.
+    <em>TLDR: </em> This paper applies structural equation models to identify the relationships between aspects of the On-Demand-Transit service and activity participation.
     <br>
     <b><a href="https://zhangyixue1537.github.io">Yixue Zhang</a></b>,
     <a href="https://stevenfarber.wordpress.com/">Steve Farber</a>
@@ -69,9 +69,9 @@ order: 0
     </a>
 </td>
 <td valign="top">
-    <b>Travel behaviour and life course: Examining changes in car use after residential relocation in Beijing.</b>
+    <b>Eliminating barriers to nighttime activity participation: the case of on-demand transit in Belleville, Canada.</b>
     <br>
-    <em>TLDR: </em> This paper applied Structural Equation Modelling to explore the effects of built environment, self-selection, and household status on car ownership and car use.
+    <em>TLDR: </em> This paper applies structural equation models to identify the relationships between aspects of the On-Demand-Transit service and activity participation.
     <br>
     <b><a href="https://zhangyixue1537.github.io">Yixue Zhang</a></b>,
     <a href="https://stevenfarber.wordpress.com/">Steve Farber</a>
