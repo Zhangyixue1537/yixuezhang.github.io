@@ -30,7 +30,7 @@ We perform scalable approximate inference in a recently-proposed family of conti
 _Transportation Journal, 2021_\
 [paper](https://github.com/jekyll/jekyll) | [slides](https://github.com/jekyll/jekyll)
 </td>
-<tr>
+</tr>
 
 ___
 
