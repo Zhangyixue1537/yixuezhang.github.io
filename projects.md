@@ -26,9 +26,9 @@ order: 0
     <br>
     <em>Transportation Journal, 2021.</em>
     <br>
-    <a href="https://arxiv.org/abs/2102.06559">paper</a>
-    | <a href="https://github.com/xwinxu/bayeSDE">code</a>
-    | <a href="talks/sdebnn.pdf">slides</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0966692318302448">paper</a>
+    | <a href="">code</a>
+    | <a href="">slides</a>
 </td>
 </tr>
 </table>
@@ -51,9 +51,9 @@ order: 0
     <br>
     <em>Transportation Journal, 2021.</em>
     <br>
-    <a href="https://arxiv.org/abs/2102.06559">paper</a>
-    | <a href="https://github.com/xwinxu/bayeSDE">code</a>
-    | <a href="talks/sdebnn.pdf">slides</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0966692318302448">paper</a>
+    | <a href="">code</a>
+    | <a href="">slides</a>
 </td>
 </tr>
 </table>
@@ -78,9 +78,9 @@ order: 0
     <br>
     <em>Transportation Journal, 2021.</em>
     <br>
-    <a href="https://arxiv.org/abs/2102.06559">paper</a>
-    | <a href="https://github.com/xwinxu/bayeSDE">code</a>
-    | <a href="talks/sdebnn.pdf">slides</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0966692318302448">paper</a>
+    | <a href="">code</a>
+    | <a href="">slides</a>
 </td>
 </tr>
 </table>
