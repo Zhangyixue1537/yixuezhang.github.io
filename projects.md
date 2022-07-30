@@ -17,6 +17,8 @@ We perform scalable approximate inference in a recently-proposed family of conti
 _Transportation Journal, 2021_\
 [paper](https://github.com/jekyll/jekyll) | [slides](https://github.com/jekyll/jekyll)
 
+___
+
 ## Belleville Bus on Demand 
 
 This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
