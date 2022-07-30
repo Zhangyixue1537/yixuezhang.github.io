@@ -35,6 +35,9 @@ We perform scalable approximate inference in a recently-proposed family of conti
     | <a href="papers/sdebnn.bib">bibtex</a>
 </td>
 </tr>
+    
+<tr><td height="10px"></td></tr>  
+    
 </tbody></table>
 
 <img align="left" width="250" height="250" src="./figures/yuyu.jpg">
