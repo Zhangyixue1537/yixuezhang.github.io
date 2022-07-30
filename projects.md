@@ -10,7 +10,7 @@ order: 0
 ## Acessible Taxi
 
 
-<table style="width:100%">
+##<table style="width:100%">
 <tr>
 <td valign="top" style="width:30%">
     <a href="https://arxiv.org/abs/2102.06559">
@@ -56,7 +56,15 @@ TLDR: This paper applied Structural Equation Modelling to explore the effects of
 _Transportation Journal, 2021_\
 [paper](https://github.com/jekyll/jekyll) | [slides](https://github.com/jekyll/jekyll)
 
+___
 
+<img align="left" width="200" height="200" src="./figures/yuyu.jpg">
+**Travel behaviour and life course: Examining changes in car use after residential relocation in Beijing.**\
+[**Yixue Zhang**](https://zhangyixue1537.github.io),  [Steve Farber](https://github.com/jekyll/jekyll).\
+_Transportation Journal, 2021_\
+[paper](https://github.com/jekyll/jekyll) | [slides](https://github.com/jekyll/jekyll)
+
+_TLDR_: This paper applied Structural Equation Modelling to explore the effects of built environment, self-selection, and household status on car ownership and car use.
 ___
 
 ## Belleville Bus on Demand 
