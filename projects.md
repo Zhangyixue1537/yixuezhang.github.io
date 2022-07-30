@@ -10,11 +10,11 @@ order: 0
 ## Acessible Taxi
 
 
-<table border="0" cellspacing="0" cellpadding="0" style="width:100%">
+<table border="0" cellspacing="0" cellpadding="0" style="width:100%; border-collapse: collapse; border: none">
 <tr>
 <td valign="top" style="width:30%">
     <a href="https://arxiv.org/abs/2102.06559">
-            <img src="./figures/yuyu.jpg" alt="Link" width="130px" height="130px">
+            <img src="./figures/yuyu.jpg" alt="Link" width="250px" height="250px">
     </a>
 </td>
 <td valign="top">
