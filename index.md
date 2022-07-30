@@ -2,10 +2,20 @@
 layout: default
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+### About
+My name is Yixue Zhang, I’m a fourth-year urban planning PhD student in the Department of Geography and Planning at the University of Toronto. My research interests include travel behaviour and transport equity. I have participated in several research projects concerning transport equity and travel behavior, and has extensive experience in data management, including data cleaning, data mining, and modeling. My doctoral thesis aims to analyze the travel patterns and needs of people with disabilities through a transport equity perspective.
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
 
-Have a look at the Github page for more information.
+You can also find me here:
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+[GitHub Profile](https://github.com/Zhangyixue1537)
+
+[Google Scholar](https://scholar.google.ca/citations?user=iOO7yQcAAAAJ&hl=en&oi=ao)
+
+[Twitter](https://twitter.com/YixueZhang1537)
+
+### Projects
+under construction
+
+### Blogs
+under construction
