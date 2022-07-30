@@ -12,7 +12,7 @@ order: 0
 <table border="0" cellspacing="0" cellpadding="0" style="width:100%; border-collapse: collapse; border: none">
 <tr>
 <td valign="top" style="width:30%">
-    <a href="https://arxiv.org/abs/2102.06559">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0966692318302448">
             <img src="./figures/yuyu.jpg" width="210px" height="210px">
     </a>
 </td>
@@ -37,7 +37,7 @@ order: 0
 <table border="0" cellspacing="0" cellpadding="0" style="width:100%; border-collapse: collapse; border: none">
 <tr>
 <td valign="top" style="width:30%">
-    <a href="https://arxiv.org/abs/2102.06559">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0966692318302448">
             <img src="./figures/yuyu.jpg" width="210px" height="210px">
     </a>
 </td>
@@ -64,7 +64,7 @@ order: 0
 <table border="0" cellspacing="0" cellpadding="0" style="width:100%; border-collapse: collapse; border: none">
 <tr>
 <td valign="top" style="width:30%">
-    <a href="https://arxiv.org/abs/2102.06559">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0966692318302448">
             <img src="./figures/yuyu.jpg" width="210px" height="210px">
     </a>
 </td>
