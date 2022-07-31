@@ -22,9 +22,10 @@ order: 0
     <em>TLDR: </em> This paper applies structural equation models to identify the relationships between aspects of the On-Demand-Transit service and activity participation.
     <br>
     <b><a href="https://zhangyixue1537.github.io">Yixue Zhang</a></b>,
-    <a href="https://stevenfarber.wordpress.com/">Steve Farber</a>
+    <a href="https://stevenfarber.wordpress.com/">Steven Farber</a>,
+    <a href="https://www.mischayoung.com/">Mischa Young</a>
     <br>
-    <em>Transportation Journal, 2021.</em>
+    <em>Transportation, 2021.</em>
     <br>
     <a href="https://link.springer.com/article/10.1007/s11116-021-10215-2">paper</a>
     | <a href="">code</a>
@@ -47,9 +48,10 @@ order: 0
     <em>TLDR: </em> This paper applies structural equation models to identify the relationships between aspects of the On-Demand-Transit service and activity participation.
     <br>
     <b><a href="https://zhangyixue1537.github.io">Yixue Zhang</a></b>,
-    <a href="https://stevenfarber.wordpress.com/">Steve Farber</a>
+    <a href="https://stevenfarber.wordpress.com/">Steven Farber</a>,
+    <a href="https://www.mischayoung.com/">Mischa Young</a>
     <br>
-    <em>Transportation Journal, 2021.</em>
+    <em>Transportation, 2021.</em>
     <br>
     <a href="https://link.springer.com/article/10.1007/s11116-021-10215-2">paper</a>
     | <a href="">code</a>
@@ -74,9 +76,10 @@ order: 0
     <em>TLDR: </em> This paper applies structural equation models to identify the relationships between aspects of the On-Demand-Transit service and activity participation.
     <br>
     <b><a href="https://zhangyixue1537.github.io">Yixue Zhang</a></b>,
-    <a href="https://stevenfarber.wordpress.com/">Steve Farber</a>
+    <a href="https://stevenfarber.wordpress.com/">Steven Farber</a>,
+    <a href="https://www.mischayoung.com/">Mischa Young</a>
     <br>
-    <em>Transportation Journal, 2021.</em>
+    <em>Transportation, 2021.</em>
     <br>
     <a href="https://link.springer.com/article/10.1007/s11116-021-10215-2">paper</a>
     | <a href="">code</a>
