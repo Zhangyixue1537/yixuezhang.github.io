@@ -4,6 +4,8 @@
     {% assign default_refs = site.pages | sort:"order" | map: "ref" %}
     {% assign page_refs = site.header_page_refs | default: default_refs %}
 
+    <a class="site-title" href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a>
+    
     {% if page_refs %}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
