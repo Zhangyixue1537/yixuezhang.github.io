@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Blogs
 tagline: Sharing my thoughts here in blogs
 permalink: /blogs/
