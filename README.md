@@ -18,4 +18,4 @@ bundle exec jekyll serve
 *Note: this is made default already.*
 1. Open `git bash` under the `Git` folder in the Start menu
 2. `cd /d`
-3. ```cd download/git/projects/zhangyixue1537.github.io```
+3. ```cd download/git/projects/yixuezhang.github.io```
