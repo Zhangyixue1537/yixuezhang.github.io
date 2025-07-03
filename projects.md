@@ -13,7 +13,7 @@ order: 2
 <tr>
 <td valign="top" style="width:30%">
     <a href="https://link.springer.com/article/10.1007/s11116-021-10215-2">
-            <img src="./figures/yuyu.jpg" width="210px" height="210px">
+            <img src="{{ '/figures/yuyu.jpg' | relative_url }}" width="210px" height="210px">
     </a>
 </td>
 <td valign="top">
@@ -39,7 +39,7 @@ order: 2
 <tr>
 <td valign="top" style="width:30%">
     <a href="https://link.springer.com/article/10.1007/s11116-021-10215-2">
-            <img src="./figures/yuyu.jpg" width="210px" height="210px">
+            <img src="{{ '/figures/yuyu.jpg' | relative_url }}" width="210px" height="210px">
     </a>
 </td>
 <td valign="top">
@@ -67,7 +67,7 @@ order: 2
 <tr>
 <td valign="top" style="width:30%">
     <a href="https://link.springer.com/article/10.1007/s11116-021-10215-2">
-            <img src="./figures/yuyu.jpg" width="210px" height="210px">
+            <img src="{{ '/figures/yuyu.jpg' | relative_url }}" width="210px" height="210px">
     </a>
 </td>
 <td valign="top">
