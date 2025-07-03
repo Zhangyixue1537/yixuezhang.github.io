@@ -2,9 +2,9 @@
 layout: page
 title: Publications
 tagline: A list of my publications
-permalink: /publications.html
+permalink: /publications/
 ref: publications
-order: 3
+order: 1
 ---
 
 # Publications

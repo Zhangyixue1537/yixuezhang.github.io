@@ -2,8 +2,8 @@
 layout: home
 title: Blogs
 tagline: Sharing my thoughts here in blogs
-permalink: /blogs.html
+permalink: /blogs/
 ref: blogs
-order: 2
+order: 3
 ---
 

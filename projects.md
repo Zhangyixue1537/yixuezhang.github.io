@@ -2,9 +2,9 @@
 layout: page
 title: Projects
 tagline: A list of my projects and publications
-permalink: /projects.html
+permalink: /projects/
 ref: projects
-order: 0
+order: 2
 ---
 
 ## Acessible Taxi
