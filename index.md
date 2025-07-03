@@ -1,10 +1,17 @@
 ---
 layout: default
-title: Welcome to Yixue's Homepage
+title: Welcome!
 ---
 
 ### About
-My name is Yixue Zhang, I’m a fourth-year urban planning PhD student in the Department of Geography and Planning at the University of Toronto. My research interests include travel behaviour and transport equity. I have participated in several research projects concerning transport equity and travel behavior, and has extensive experience in data management, including data cleaning, data mining, and modeling. My doctoral thesis aims to analyze the travel patterns and needs of people with disabilities through a transport equity perspective.
-
+My name is Yixue Zhang, and I am a data scientist specializing in travel behaviour, accessibility analysis, and transport equity. Experienced in applying machine learning, spatial analysis, and statistical modelling to multi-million record transportation datasets. Passionate about leveraging data-driven insights to improve mobility systems and user experience, especially for underserved populations. Skilled communicator with a strong academic publication record and cross-disciplinary collaboration experience.
 
 ### Education
+Doctor of Philosophy, Transportation Planning
+University of Toronto, Canada (2019.09-2023.11)
+
+Master of Science, Urban and Regional Planning
+Peking University, China (2016.09-2019.07)
+
+Bachelor of Arts, Economics
+Peking University, China (2012.09-2016.07)
