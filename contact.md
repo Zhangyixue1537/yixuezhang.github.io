@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-tagline: $firstname.$lastname@mail.utoronto.ca
+tagline: zhangyixue1537@gmail.com
 ref: contact
 order: 1
 ---
