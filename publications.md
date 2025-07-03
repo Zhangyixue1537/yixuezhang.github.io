@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Contact
-tagline: zhangyixue1537@gmail.com
-ref: contact
-order: 1
+title: Publications
+tagline: A list of my publications
+permalink: /publications.html
+ref: publications
+order: 0
 ---
 
