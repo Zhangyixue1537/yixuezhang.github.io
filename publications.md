@@ -7,8 +7,6 @@ ref: publications
 order: 1
 ---
 
-# Publications
-
 ## Refereed Journal Articles
 1.	Zhang, Yixue, Steven Farber, Mischa Young, Ignacio T. Aitken, and Timothy Ross. "Travel behaviour differences among people with disabilities: A cluster analysis of accessible taxi users before and during the COVID-19 pandemic." Journal of Transport & Health 35 (2024): 101753.
 2.	Alsaleh, Nael, Bilal Farooq, Yixue Zhang, and Steven Farber. " On-demand transit user preference analysis using hybrid choice models." Journal of choice modelling 49 (2023): 100451.
