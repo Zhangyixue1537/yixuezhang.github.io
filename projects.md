@@ -55,26 +55,34 @@ order: 3
 
   <div class="project-card">
     <a href="/projects/vfh/">
-      <img src="/figures/yuyu.jpg" alt="Toronto's Vehicle-for-hire services">
+      <img src="/figures/vfh.jpg" alt="Toronto's Vehicle-for-hire services">
     </a>
     <div class="project-card-title">Toronto's Vehicle-for-hire services</div>
     <div class="project-card-desc">Analyzing the impacts of Uber/Lyft on Toronto's transport network (2024)</div>
   </div>
 
   <div class="project-card">
-    <a href="https://doi.org/10.1016/j.jth.2023.101753">
-      <img src="/figures/yuyu.jpg" alt="Toronto's Accessible Taxi">
+    <a href="/projects/taxi/">
+      <img src="/figures/cluster.jpg" alt="Toronto's Accessible Taxi">
     </a>
     <div class="project-card-title">Toronto's Accessible Taxi</div>
     <div class="project-card-desc">Cluster analysis of accessible taxi users before and during COVID-19</div>
   </div>
 
   <div class="project-card">
-    <a href="https://link.springer.com/article/10.1007/s11116-021-10215-2">
-      <img src="/figures/yuyu.jpg" alt="Belleville On-Demand Transit">
+    <a href="/projects/odt/">
+      <img src="/figures/odt.jpg" alt="Belleville On-Demand Transit">
     </a>
     <div class="project-card-title">Belleville On-Demand Transit</div>
     <div class="project-card-desc">Identifying barriers to nighttime activity participation</div>
+  </div>
+
+  <div class="project-card">
+    <a href="/projects/teoz/">
+      <img src="/figures/teoz.jpg" alt="Transportation Opportunity Zones">
+    </a>
+    <div class="project-card-title">Transportation Opportunity Zones</div>
+    <div class="project-card-desc">Identifying Toronto's transportation equity zones</div>
   </div>
 
   <!-- 可以继续添加其他项目 -->
