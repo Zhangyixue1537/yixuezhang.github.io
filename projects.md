@@ -7,6 +7,20 @@ ref: projects
 order: 3
 ---
 <style>
+.project-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
+
 .project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
