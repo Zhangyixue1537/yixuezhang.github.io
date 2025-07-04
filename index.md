@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Yixue Zhang, Ph.D.
+title: Home
+header: Welcome to Yixue's personal page!
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
