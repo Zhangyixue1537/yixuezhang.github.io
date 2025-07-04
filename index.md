@@ -6,11 +6,11 @@ header: Welcome to Yixue's personal page!
 
 <style>
 .bio-section p {
-  margin-bottom: 30px; /* 调整段落间距，如需更大可改25px或30px */
+  margin-bottom: 50px; /* 调整段落间距，如需更大可改25px或30px */
 }
 
 .profile-img {
-  width: 500px; /* 原来是300px，这里增大 */
+  width: 800px; /* 原来是300px，这里增大 */
   border-radius: 10px;
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
 }
@@ -28,7 +28,7 @@ header: Welcome to Yixue's personal page!
   </div>
 
   <!-- 右侧头像 -->
-  <div style="flex: 0 0 500px; text-align: center;">
+  <div style="flex: 0 0 800px; text-align: center;">
     <img src="{{ '/figures/profile1YZ.jpg' | relative_url }}"
          alt="Yixue Zhang"
          class="profile-img">
