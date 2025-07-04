@@ -27,7 +27,7 @@ title: Yixue Zhang, Ph.D.
 
   <!-- 右侧长方形头像 -->
   <div style="flex: 0 0 320px; text-align: center;">
-    <img src="{{ '/figures/profile.jpg' | relative_url }}" alt="Yixue Zhang" width="300" style="box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+    <img src="{{ '/figures/profileYZ.jpg' | relative_url }}" alt="Yixue Zhang" width="300" style="box-shadow: 0 0 5px rgba(0,0,0,0.1);">
   </div>
 
 </div>
