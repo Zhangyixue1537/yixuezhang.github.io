@@ -6,33 +6,25 @@ header: Welcome to Yixue's personal page!
 
 <style>
 .bio-section p {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .profile-img {
-  width: 400px;
+  width: 350px;
   border-radius: 10px;
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
 }
 
-/* Default: Desktop layout */
 .profile-container {
-  flex: 0 0 400px;
+  flex: 0 0 350px;
   text-align: center;
-  margin-left: 30px; /* 偏右 */
+  margin-left: 30px;
 }
 
-/* Responsive: Mobile layout */
+/* Responsive: only adjust image size, keep layout */
 @media (max-width: 768px) {
-  .profile-container {
-    flex: 1 0 100%;
-    text-align: center;
-    margin-left: 0; /* 手机端去除 margin-left */
-    margin-top: 20px; /* 与上方 bio 保持间距 */
-  }
-
   .profile-img {
-    width: 250px; /* 手机端头像稍小，适配屏幕 */
+    width: 250px;
   }
 }
 </style>
