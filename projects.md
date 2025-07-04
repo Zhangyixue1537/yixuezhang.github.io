@@ -54,7 +54,7 @@ order: 3
 <div class="project-grid">
 
   <div class="project-card">
-    <a href="https://www.toronto.ca/services-payments/streets-parking-transportation/road-safety/big-data-innovation-team/">
+    <a href="/projects/vfh/">
       <img src="/figures/yuyu.jpg" alt="Toronto's Vehicle-for-hire services">
     </a>
     <div class="project-card-title">Toronto's Vehicle-for-hire services</div>
