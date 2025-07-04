@@ -4,7 +4,7 @@ title: Publications
 tagline: A list of my publications
 permalink: /publications/
 ref: publications
-order: 1
+order: 2
 ---
 
 ## Refereed Journal Articles

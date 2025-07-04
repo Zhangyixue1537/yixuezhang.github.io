@@ -4,7 +4,7 @@ title: Projects
 tagline: A list of my projects
 permalink: /projects/
 ref: projects
-order: 2
+order: 3
 ---
 
 ## Acessible Taxi
