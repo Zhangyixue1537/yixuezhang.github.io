@@ -16,7 +16,7 @@ header: Welcome to Yixue's personal page!
 
   <!-- 右侧长方形头像 with 浅灰边框 + 圆角 -->
   <div style="flex: 0 0 320px; text-align: center;">
-    <img src="{{ '/figures/profileYZ.jpg' | relative_url }}"
+    <img src="{{ '/figures/profile1YZ.jpg' | relative_url }}"
          alt="Yixue Zhang"
          width="300"
          style="border-radius: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
