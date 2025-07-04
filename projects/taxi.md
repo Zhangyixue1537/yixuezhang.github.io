@@ -6,7 +6,7 @@ permalink: /projects/taxi/
 
 # Toronto's accessible taxi
 
-![taxi Cover Image](/figures/yuyu.jpg)
+![taxi Cover Image](/figures/taxi2.jpg)
 
 ## Overview
 Cluster analysis of accessible taxi users before and during COVID-19

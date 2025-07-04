@@ -6,7 +6,7 @@ permalink: /projects/odt/
 
 # On-demand Transit
 
-![ODT Cover Image](/figures/yuyu.jpg)
+![ODT Cover Image](/figures/odt.jpg)
 
 ## Overview
 Identifying barriers to nighttime activity participation

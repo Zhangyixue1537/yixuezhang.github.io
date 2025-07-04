@@ -6,7 +6,7 @@ permalink: /projects/vfh/
 
 # Toronto's Vehicle-for-hire services
 
-![VFH Cover Image](/figures/yuyu.jpg)
+![VFH Cover Image](/figures/vfh.jpg)
 
 ## Overview
 This project analyzes the impacts of the vehicle-for-hire (Uber/Lyft) industry on Toronto’s transportation network in 2024.
