@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Background
-tagline:
+tagline: My education & experience
 permalink: /background/
 ref: background
 order: 1
