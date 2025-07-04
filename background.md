@@ -19,7 +19,6 @@ Peking University, China (2012.09-2016.07)<br>
 
 ## Work Experience
 Research Analyst, City of Toronto (2023.11-present)<br>
-@Data & Analytics Unit, Transportation Services<br>
 
 ## Research Experience
 Doctoral Trainee, Holland Bloorview Kids Rehabilitation Hospital (2021.02-2023.07)<br>
