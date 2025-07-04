@@ -3,15 +3,31 @@ layout: default
 title: Yixue Zhang, Ph.D.
 ---
 
-### About
-My name is Yixue Zhang, and I am a data scientist specializing in travel behaviour, accessibility analysis, and transport equity. Experienced in applying machine learning, spatial analysis, and statistical modelling to multi-million record transportation datasets. Passionate about leveraging data-driven insights to improve mobility systems and user experience, especially for underserved populations. Skilled communicator with a strong academic publication record and cross-disciplinary collaboration experience.
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-### Education
-Doctor of Philosophy, Transportation Planning<br>
-University of Toronto, Canada (2019.09-2023.11)<br>
+  <!-- 左侧简介 -->
+  <div style="flex: 1; min-width: 250px; margin-right: 20px;">
+    <h3>About</h3>
+    <p>
+      My name is Yixue Zhang, and I am a data scientist specializing in travel behaviour, accessibility analysis, and transport equity. Experienced in applying machine learning, spatial analysis, and statistical modelling to multi-million record transportation datasets. Passionate about leveraging data-driven insights to improve mobility systems and user experience, especially for underserved populations. Skilled communicator with a strong academic publication record and cross-disciplinary collaboration experience.
+    </p>
 
-Master of Science, Urban and Regional Planning<br>
-Peking University, China (2016.09-2019.07)<br>
+    <h3>Education</h3>
+    <p>
+      Doctor of Philosophy, Transportation Planning<br>
+      University of Toronto, Canada (2019.09-2023.11)<br><br>
 
-Bachelor of Arts, Economics<br>
-Peking University, China (2012.09-2016.07)<br>
+      Master of Science, Urban and Regional Planning<br>
+      Peking University, China (2016.09-2019.07)<br><br>
+
+      Bachelor of Arts, Economics<br>
+      Peking University, China (2012.09-2016.07)<br>
+    </p>
+  </div>
+
+  <!-- 右侧头像 -->
+  <div style="flex: 0 0 200px; text-align: center;">
+    <img src="{{ '/figures/yuyu.jpg' | relative_url }}" alt="Yixue Zhang" width="180" style="border-radius: 50%; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+  </div>
+
+</div>
