@@ -45,7 +45,7 @@ header: Welcome to Yixue's personal page!
   </div>
 
   <!-- 右侧头像 -->
-  <div style="flex: 0 0 350px; text-align: center; position: sticky; top: 100px; align-self: flex-start;">
+  <div style="flex: 0 0 350px; text-align: center; align-self: flex-start;">
     <img src="{{ '/figures/profile1YZ.jpg' | relative_url }}"
         alt="Yixue Zhang"
         width="300"
