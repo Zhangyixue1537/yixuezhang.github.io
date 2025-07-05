@@ -6,7 +6,7 @@ header: Welcome to Yixue's personal page!
 
 <style>
 .about-section {
-  font-size: 1.2em;
+  font-size: 2em;
   line-height: 1.6;
 }
 
