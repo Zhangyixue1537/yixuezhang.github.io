@@ -5,9 +5,8 @@ header: Welcome to Yixue's personal page!
 ---
 
 <style>
-.about-section {
+.about-section h3 {
   font-size: 2em;
-  line-height: 1.6;
 }
 
 .bio-section p {
