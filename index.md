@@ -6,7 +6,7 @@ header: Welcome to Yixue's personal page!
 
 <style>
 .bio-section p {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .profile-img {
@@ -18,7 +18,7 @@ header: Welcome to Yixue's personal page!
 .profile-container {
   flex: 0 0 350px;
   text-align: center;
-  margin-left: 30px;
+  margin-left: 10px;
 }
 
 /* Responsive: only adjust image size, keep layout */
@@ -41,7 +41,7 @@ header: Welcome to Yixue's personal page!
   </div>
 
   <!-- 右侧头像 -->
-  <div style="flex: 0 0 800px; text-align: center;">
+  <div style="flex: 0 0 350px; text-align: center;">
     <img src="{{ '/figures/profile1YZ.jpg' | relative_url }}"
          alt="Yixue Zhang"
          class="profile-img">
