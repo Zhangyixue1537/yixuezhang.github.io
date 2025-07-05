@@ -28,4 +28,4 @@ ol li {
 12. Zhao, Pengjun, and **Yixue Zhang**. "Travel behaviour and life course: Examining changes in car use after residential relocation in Beijing." Journal of Transport Geography 73 (2018): 41-53.
 
 ## Academic Reports
-1. **Zhang, Yixue**, Steven Farber, and Mischa Young. ["The Benefits Of On-Demand Transit In Belleville: Findings From A User Survey."] (https://hdl.handle.net/1807/100570) (2020). 
+1. **Zhang, Yixue**, Steven Farber, and Mischa Young. ["The Benefits Of On-Demand Transit In Belleville: Findings From A User Survey."(https://hdl.handle.net/1807/100570)] (2020). 
