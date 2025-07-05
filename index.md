@@ -14,13 +14,13 @@ header: Welcome to Yixue's personal page!
 }
 
 .profile-img {
-  width: 350px;
+  width: 400px;
   border-radius: 10px;
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
 }
 
 .profile-container {
-  flex: 0 0 350px;
+  flex: 0 0 400px;
   text-align: center;
   margin-left: 10px;
 }
@@ -45,7 +45,7 @@ header: Welcome to Yixue's personal page!
   </div>
 
   <!-- 右侧头像 -->
-  <div style="flex: 0 0 350px; text-align: center; align-self: flex-start;">
+  <div style="flex: 0 0 400px; text-align: center; align-self: flex-start;">
     <img src="{{ '/figures/profile1YZ.jpg' | relative_url }}"
         alt="Yixue Zhang"
         width="300"
