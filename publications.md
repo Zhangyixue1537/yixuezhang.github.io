@@ -8,8 +8,14 @@ order: 2
 ---
 
 <style>
+ol {
+  list-style-type: decimal; /* 强制显示数字 */
+  margin-left: 20px; /* 可选：增加左缩进 */
+}
+
 ol li {
-  margin-bottom: 20px;
+  display: list-item; /* 确保 li 以 list-item 渲染 */
+   margin-bottom: 20px; /* 调整间距，可改为 25px, 30px 根据需要 */
 }
 </style>
 
