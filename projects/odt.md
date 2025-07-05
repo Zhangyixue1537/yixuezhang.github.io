@@ -18,4 +18,4 @@ Describe your data, methods, and analyses here.
 Summarize key findings, figures, and conclusions here.
 
 ## Links
-[Full report](https://link.springer.com/article/10.1007/s11116-021-10215-2)
+[Full paper](https://link.springer.com/article/10.1007/s11116-021-10215-2)

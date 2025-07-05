@@ -54,19 +54,27 @@ order: 3
 <div class="project-grid">
 
   <div class="project-card">
+    <a href="/projects/taxi1/">
+      <img src="/figures/taxi.jpg" alt="Toronto's Accessible Taxi (I)">
+    </a>
+    <div class="project-card-title">Toronto's Accessible Taxi (I)</div>
+    <div class="project-card-desc">Multi-level regression of accessible taxi ridership</div>
+  </div>
+
+  <div class="project-card">
+    <a href="/projects/taxi2/">
+      <img src="/figures/cluster.jpg" alt="Toronto's Accessible Taxi (II)">
+    </a>
+    <div class="project-card-title">Toronto's Accessible Taxi (II)</div>
+    <div class="project-card-desc">Cluster analysis of accessible taxi users before and during COVID-19</div>
+  </div>
+
+  <div class="project-card">
     <a href="/projects/vfh/">
       <img src="/figures/vfh.jpg" alt="Toronto's Vehicle-for-hire services">
     </a>
     <div class="project-card-title">Toronto's Vehicle-for-hire services</div>
     <div class="project-card-desc">Analyzing the impacts of Uber/Lyft on Toronto's transport network (2024)</div>
-  </div>
-
-  <div class="project-card">
-    <a href="/projects/taxi/">
-      <img src="/figures/cluster.jpg" alt="Toronto's Accessible Taxi">
-    </a>
-    <div class="project-card-title">Toronto's Accessible Taxi</div>
-    <div class="project-card-desc">Cluster analysis of accessible taxi users before and during COVID-19</div>
   </div>
 
   <div class="project-card">
@@ -83,6 +91,14 @@ order: 3
     </a>
     <div class="project-card-title">Transportation Opportunity Zones</div>
     <div class="project-card-desc">Identifying Toronto's transportation equity zones</div>
+  </div>
+
+  <div class="project-card">
+    <a href="/projects/sem_bicycle/">
+      <img src="/figures/sc_bicycle.jpg" alt="Bicycle">
+    </a>
+    <div class="project-card-title">Factors Influencing Utilitarian and Recreational Cycling </div>
+    <div class="project-card-desc">Factors Influencing Utilitarian and Recreational Cycling</div>
   </div>
 
   <!-- 可以继续添加其他项目 -->

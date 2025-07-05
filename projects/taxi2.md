@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Toronto's accessible taxi
-permalink: /projects/taxi/
+title: Toronto's accessible taxi (II)
+permalink: /projects/taxi2/
 ---
 
-# Toronto's accessible taxi
+# Toronto's accessible taxi (II)
 
 ![taxi Cover Image](/figures/taxi2.jpg)
 
@@ -18,4 +18,4 @@ Describe your data, methods, and analyses here.
 Summarize key findings, figures, and conclusions here.
 
 ## Links
-[Full report](https://doi.org/10.1016/j.jth.2023.101753)
+[Full paper](https://doi.org/10.1016/j.jth.2023.101753)
