@@ -31,7 +31,14 @@ header: Welcome to Yixue's personal page!
   .profile-img {
     width: 250px;
   }
+  .profile-container {
+    flex: 0 0 100%;
+    margin-left: 0;
+    text-align: center;
+    margin-top: 20px; /* 可选：增加与上方简介的间距 */
+  }
 }
+
 </style>
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
