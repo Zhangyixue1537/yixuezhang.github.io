@@ -4,7 +4,7 @@ title: Toronto's accessible taxi (II)
 permalink: /projects/taxi2/
 ---
 
-# Toronto's accessible taxi (II)
+# Travel behaviour differences among people with disabilities: A cluster analysis of accessible taxi users before and during the COVID-19 pandemic
 
 ## Overview
 This study examines the travel behaviour of people with disabilities (PWD) using accessible taxi services in Toronto before and during the COVID-19 pandemic. It identifies who uses these services, how they use them, whether distinct user groups exist based on travel patterns, and how the pandemic impacted their mobility.

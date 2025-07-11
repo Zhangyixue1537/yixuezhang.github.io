@@ -4,7 +4,7 @@ title: Toronto's accessible taxi (I)
 permalink: /projects/taxi1/
 ---
 
-# Toronto's accessible taxi (I)
+# Exploring travel patterns of people with disabilities: A multilevel analysis of accessible taxi trips in Toronto, Canada
 
 ## Overview
 This study explores how people with disabilities (PWD) use accessible taxi services in Toronto, Canada. It examines when and where these trips occur, their primary purposes, and factors affecting wait and in-vehicle times. The research addresses transport-related social exclusion (TRSE) and highlights the need for inclusive transportation planning.
