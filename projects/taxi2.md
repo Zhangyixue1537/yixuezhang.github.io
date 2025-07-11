@@ -5,8 +5,6 @@ permalink: /projects/taxi2/
 ---
 
 # Toronto's accessible taxi (II)
-![Image1](/figures/cluster.jpg)
-![Image2](/figures/taxi2.jpg)
 
 ## Overview
 This study examines the travel behaviour of people with disabilities (PWD) using accessible taxi services in Toronto before and during the COVID-19 pandemic. It identifies who uses these services, how they use them, whether distinct user groups exist based on travel patterns, and how the pandemic impacted their mobility.
@@ -16,6 +14,18 @@ Using operational data from Checker Taxi, the analysis covers nearly one million
 
 ## Results
 The study identified five distinct user profiles, including frequent users, weekday afternoon users, occasional users, weekday health users, and weekend users. During the pandemic, the number of users dropped significantly, especially among occasional and weekend users, while health-related trips increased. Users who continued or started using services during the pandemic were more likely to live in socially disadvantaged neighbourhoods, highlighting the critical role of accessible taxis in supporting marginalized communities.
+
+<!-- Insert images here with captions -->
+
+<div style="text-align: center; margin-top: 20px;">
+  <img src="/figures/cluster.jpg" alt="Cluster analysis figure" style="width:80%;">
+  <div style="font-size: 14px; color: gray; margin-top: 5px;">Figure 1. Cluster analysis results</div>
+</div>
+
+<div style="text-align: center; margin-top: 30px;">
+  <img src="/figures/taxi2.jpg" alt="Accessible taxi usage figure" style="width:80%;">
+  <div style="font-size: 14px; color: gray; margin-top: 5px;">Figure 2. Accessible taxi usage pre and during COVID-19</div>
+</div>
 
 ## Links
 [Full paper](https://doi.org/10.1016/j.jth.2023.101753)
