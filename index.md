@@ -23,7 +23,7 @@ header: Welcome to Yixue's personal page!
   flex: 0 0 400px;
   text-align: center;
   margin-left: 10px;
-  align-self: flex-start;
+  align-self: center;
 }
 
 /* Responsive: only adjust image size, keep layout */
@@ -34,7 +34,7 @@ header: Welcome to Yixue's personal page!
 }
 </style>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
   <!-- 左侧简介 -->
   <div class="about-section" style="flex: 1; min-width: 250px; margin-right: 20px;">
