@@ -39,6 +39,23 @@ header: Welcome to Yixue's personal page!
   }
 }
 
+.cv-button {
+  display: inline-block;
+  padding: 10px 24px;
+  background-color: #007ACC;
+  color: white;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: bold;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.cv-button:hover {
+  background-color: #005ea2;
+  transform: translateY(-2px);
+}
+
 </style>
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
