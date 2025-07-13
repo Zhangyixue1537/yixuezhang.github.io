@@ -73,7 +73,7 @@ order: 3
     <a href="/projects/vfh/">
       <img src="/figures/vfh.jpg" alt="Toronto's Vehicle-for-hire services">
     </a>
-    <div class="project-card-title">Toronto's Vehicle-for-hire services</div>
+    <div class="project-card-title">Impacts of Toronto's Vehicle-for-hire services</div>
     <div class="project-card-desc">Analyzing the impacts of Uber/Lyft on Toronto's transport network (2024)</div>
   </div>
 
