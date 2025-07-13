@@ -51,11 +51,20 @@ header: Welcome to Yixue's personal page!
     <p>I am passionate about leveraging data-driven insights to enhance user experience and mobility access, especially for underserved communities. My work combines rigorous quantitative analysis with a strong commitment to real-world impact.</p>
   </div>
 
-  <!-- 右侧头像 -->
-  <div class="profile-container">
-    <img src="{{ '/figures/profile1YZ.jpg' | relative_url }}"
-         alt="Yixue Zhang"
-         class="profile-img">
+<!-- 右侧头像 -->
+<div class="profile-container">
+  <img src="{{ '/figures/profile1YZ.jpg' | relative_url }}"
+       alt="Yixue Zhang"
+       class="profile-img">
+
+  <!-- 下载CV按钮 -->
+  <div style="margin-top: 20px;">
+    <a href="{{ '/assets/css/YixueZhang_CV_25Jul.pdf' | relative_url }}"
+       target="_blank"
+       class="cv-button">
+       Download CV
+    </a>
   </div>
+</div>
 
 </div>
