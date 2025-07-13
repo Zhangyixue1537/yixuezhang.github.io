@@ -14,6 +14,3 @@ The TEOZ pilot combined spatial data analysis, equity-focused metrics, and commu
 
 ## Results
 The TEOZ pilot identified 20 zones across Toronto where transportation inequities are most concentrated. These zones are now being used to guide internal City planning, investment prioritization, and coordination across departments. The pilot revealed that equity-related transportation barriers intersect with multiple social factors, and that successful interventions require tailored, place-based strategies. The initiative has also contributed to building a clearer policy and methodological foundation for equity analysis across future transportation projects in Toronto.
-
-## Links
-[Full report](https://www.toronto.ca/services-payments/streets-parking-transportation/road-safety/big-data-innovation-team/)
