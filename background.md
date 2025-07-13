@@ -8,20 +8,23 @@ order: 1
 ---
 
 ## Education
-Doctor of Philosophy, Transportation Planning<br>
-University of Toronto, Canada (2019.09-2023.11)<br><br>
+<span style="font-size: 18px;">Doctor of Philosophy, Transportation Planning</span><br>
+<strong>University of Toronto, Canada (2019.09–2023.11)</strong><br><br>
 
-Master of Science, Urban and Regional Planning<br>
-Peking University, China (2016.09-2019.07)<br><br>
+<span style="font-size: 18px;">Master of Science, Urban and Regional Planning</span><br>
+<strong>Peking University, China (2016.09-2019.07)</strong><br><br>
 
-Bachelor of Arts, Economics<br>
-Peking University, China (2012.09-2016.07)<br>
+<span style="font-size: 18px;">Bachelor of Arts, Economics</span><br>
+<strong>Peking University, China (2012.09-2016.07)</strong><br><br>
 
 ## Work Experience
-Research Analyst, City of Toronto (2023.11-present)<br>
+<span style="font-size: 18px;">Research Analyst</span><br>
+<strong>City of Toronto (2023.11-present)</strong><br><br>
 
 ## Research Experience
-Doctoral Trainee, Holland Bloorview Kids Rehabilitation Hospital (2021.02-2023.07)<br>
+<span style="font-size: 18px;">Doctoral Trainee</span><br>
+<strong>Holland Bloorview Kids Rehabilitation Hospital (2021.02-2023.07)</strong><br><br>
 
-Research Assistant, University of Toronto (2019.09-2023.11)<br>
+<span style="font-size: 18px;">Research Assistant</span><br>
+<strong>University of Toronto (2019.09-2023.11)</strong><br><br>
 
