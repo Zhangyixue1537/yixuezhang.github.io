@@ -42,18 +42,19 @@ header: Welcome to Yixue's personal page!
 .cv-button {
   display: inline-block;
   padding: 10px 24px;
-  background-color: #007ACC;
-  color: white;
+  background-color: transparent;     /* 背景透明 */
+  color: black;                      /* 黑色字体 */
   text-decoration: none;
-  border-radius: 25px;
+  border: 1px solid black;           /* 细黑色边框 */
+  border-radius: 4px;                /* 稍微圆一点，更现代（可设为0完全方形） */
   font-weight: bold;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: background-color 0.3s ease, transform 0.2s ease;
+  font-size: 18px;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .cv-button:hover {
-  background-color: #005ea2;
-  transform: translateY(-2px);
+  background-color: black;           /* 悬停时黑底白字 */
+  color: white;
 }
 
 </style>
