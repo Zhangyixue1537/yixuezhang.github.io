@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Toronto's Vehicle-for-hire services
+title: Toronto's Vehicle-for-Hire Services
 permalink: /projects/vfh/
 ---
 

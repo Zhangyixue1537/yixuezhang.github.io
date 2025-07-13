@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Toronto's accessible taxi (II)
+title: Toronto's Accessible Taxi (II)
 permalink: /projects/taxi2/
 ---
 

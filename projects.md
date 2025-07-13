@@ -89,7 +89,7 @@ order: 3
     <a href="/projects/teoz/">
       <img src="/figures/teoz.jpg" alt="Transportation Opportunity Zones">
     </a>
-    <div class="project-card-title">Transportation Opportunity Zones</div>
+    <div class="project-card-title">Transportation Equity Opportunity Zones (TEOZ)</div>
     <div class="project-card-desc">Identifying Toronto's transportation equity zones</div>
   </div>
 
